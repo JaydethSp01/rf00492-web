@@ -1,2 +1,3 @@
-# rf00492-web
-ScrumDev AI frontend (rf00492-web)
+# TPL Salud Cita Frontend
+
+Este es el frontend del sistema de gestión de citas médicas para la clínica.
